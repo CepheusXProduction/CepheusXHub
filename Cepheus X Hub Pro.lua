@@ -1,6 +1,15 @@
---// Made By YoItzLMK \\--
---\\ Thanks For Using //
--- https://discord.gg/z3sKGsSmFB
+--[[
+⌜ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─⌝
+︳--// Made By YoItzLMK! \\--︳
+︳--\\ Thanks For Using! //--︳
+︳─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─︳
+︳⬊Sub2 The Youtube Channel⬋︳
+︳⟶ http://bit.ly/4oivUHP ⟵︳
+︳─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─︳
+︳⬊ Join The Discord Server⬋︳
+︳⟶ http://bit.ly/4xegXKR ⟵︳
+⌞ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─⌟
+]]
 
 
 
@@ -238,15 +247,7 @@
 
 
 
-
-
-
-
-
-
-
-
-
+loadstring(game:HttpGet("https://raw.githubusercontent.com/caomod2077/Script/main/Foxname_SZA.lua"))()
 
 
 
