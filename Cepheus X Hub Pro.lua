@@ -2497,8 +2497,13 @@
 
 
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/CepheusXProduction/4ro_1eA8a-C2_a.C9d-B7a-_rr0/refs/heads/main/error"))()
+G.ThisGayFemboySkidIsTryIngToSkidThisScript = false
 
+if G.ThisGayFemboySkidIsTryIngToSkidThisScript then
+    print("ThisGayFemboySkidIsTryIngToSkidThisScript")
+else
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/CepheusXProduction/4ro_1eA8a-C2_a.C9d-B7a-_rr0/refs/heads/main/error"))()
+end
 
 
 
@@ -4980,13 +4985,8 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/CepheusXProduction/4r
 
 
 
-
-
-
-
-
+loadstring(game:HttpGet("loadstring(game:HttpGet("https://raw.githubusercontent.com/CepheusXProduction/OfficialCepheusXhub"))()
 --[[
-STOP TRYING TO SKID THIS SCRIPTHUB
 ⌜ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ⌝
 ︳--// Made By YoItzLMK! \\--︳
 ︳--\\ Thanks For Using! //--︳
