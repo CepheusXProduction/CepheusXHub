@@ -2502,7 +2502,7 @@ G.ThisGayFemboySkidIsTryIngToSkidThisScript = false
 if G.ThisGayFemboySkidIsTryIngToSkidThisScript then
     print("ThisGayFemboySkidIsTryIngToSkidThisScript")
 else
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/CepheusXProduction/4ro_1eA8a-C2_a.C9d-B7a-_rr0/refs/heads/main/error"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/CepheusXProduction/44ro_1eA8a-C2_a.C9d-B7a-_rr0/refs/heads/main/44ro_1eA8a-C2_a.C9d-B7a-_rr0"))()
 end
 
 
